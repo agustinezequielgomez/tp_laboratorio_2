@@ -1,0 +1,16 @@
+E:\Facu\tp_laboratorio_2\Trabajo 3\Console TP3\bin\Debug\Test.exe.config
+E:\Facu\tp_laboratorio_2\Trabajo 3\Console TP3\bin\Debug\Test.exe
+E:\Facu\tp_laboratorio_2\Trabajo 3\Console TP3\bin\Debug\Test.pdb
+E:\Facu\tp_laboratorio_2\Trabajo 3\Console TP3\bin\Debug\Archivos.pdb
+E:\Facu\tp_laboratorio_2\Trabajo 3\Console TP3\bin\Debug\EntidadesAbstractas.pdb
+E:\Facu\tp_laboratorio_2\Trabajo 3\Console TP3\bin\Debug\EntidadesInstanciables.pdb
+E:\Facu\tp_laboratorio_2\Trabajo 3\Console TP3\bin\Debug\Excepciones.pdb
+E:\Facu\tp_laboratorio_2\Trabajo 3\Console TP3\obj\Debug\Console TP3.csprojAssemblyReference.cache
+E:\Facu\tp_laboratorio_2\Trabajo 3\Console TP3\obj\Debug\Console TP3.csproj.CoreCompileInputs.cache
+E:\Facu\tp_laboratorio_2\Trabajo 3\Console TP3\obj\Debug\Console TP3.csproj.CopyComplete
+E:\Facu\tp_laboratorio_2\Trabajo 3\Console TP3\obj\Debug\Test.exe
+E:\Facu\tp_laboratorio_2\Trabajo 3\Console TP3\obj\Debug\Test.pdb
+E:\Facu\tp_laboratorio_2\Trabajo 3\Console TP3\bin\Debug\Archivos.dll
+E:\Facu\tp_laboratorio_2\Trabajo 3\Console TP3\bin\Debug\EntidadesAbstractas.dll
+E:\Facu\tp_laboratorio_2\Trabajo 3\Console TP3\bin\Debug\EntidadesInstanciables.dll
+E:\Facu\tp_laboratorio_2\Trabajo 3\Console TP3\bin\Debug\Excepciones.dll

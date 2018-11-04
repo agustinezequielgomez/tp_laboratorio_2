@@ -1,0 +1,17 @@
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Trabajos Practicos\TP 3\Excepciones\bin\Debug\Excepciones.dll
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Trabajos Practicos\TP 3\Excepciones\bin\Debug\Excepciones.pdb
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Trabajos Practicos\TP 3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Trabajos Practicos\TP 3\Excepciones\obj\Debug\Excepciones.dll
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Trabajos Practicos\TP 3\Excepciones\obj\Debug\Excepciones.pdb
+E:\Facu\tp_laboratorio_2\Trabajo 3\Excepciones\bin\Debug\Excepciones.pdb
+E:\Facu\tp_laboratorio_2\Trabajo 3\Excepciones\bin\Debug\Archivos.dll
+E:\Facu\tp_laboratorio_2\Trabajo 3\Excepciones\bin\Debug\EntidadesAbstractas.dll
+E:\Facu\tp_laboratorio_2\Trabajo 3\Excepciones\bin\Debug\EntidadesInstanciables.dll
+E:\Facu\tp_laboratorio_2\Trabajo 3\Excepciones\bin\Debug\Archivos.pdb
+E:\Facu\tp_laboratorio_2\Trabajo 3\Excepciones\bin\Debug\EntidadesAbstractas.pdb
+E:\Facu\tp_laboratorio_2\Trabajo 3\Excepciones\bin\Debug\EntidadesInstanciables.pdb
+E:\Facu\tp_laboratorio_2\Trabajo 3\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+E:\Facu\tp_laboratorio_2\Trabajo 3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+E:\Facu\tp_laboratorio_2\Trabajo 3\Excepciones\obj\Debug\Excepciones.csproj.CopyComplete
+E:\Facu\tp_laboratorio_2\Trabajo 3\Excepciones\obj\Debug\Excepciones.dll
+E:\Facu\tp_laboratorio_2\Trabajo 3\Excepciones\obj\Debug\Excepciones.pdb

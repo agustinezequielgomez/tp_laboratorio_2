@@ -1,0 +1,26 @@
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Trabajos Practicos\TP 1\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Trabajos Practicos\TP 1\MiCalculadora\obj\Debug\MiCalculadora.LaCalculadora.resources
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Trabajos Practicos\TP 1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Trabajos Practicos\TP 1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Trabajos Practicos\TP 1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Trabajos Practicos\TP 1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Trabajos Practicos\TP 1\MiCalculadora\bin\Debug\MiCalculadora.exe
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Trabajos Practicos\TP 1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Trabajos Practicos\TP 1\MiCalculadora\bin\Debug\Entidades.dll
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Trabajos Practicos\TP 1\MiCalculadora\bin\Debug\Entidades.pdb
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Trabajos Practicos\TP 1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Trabajos Practicos\TP 1\MiCalculadora\obj\Debug\MiCalculadora.exe
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Trabajos Practicos\TP 1\MiCalculadora\obj\Debug\MiCalculadora.pdb
+E:\Facu\tp_laboratorio_2\Trabajo 1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+E:\Facu\tp_laboratorio_2\Trabajo 1\MiCalculadora\bin\Debug\MiCalculadora.exe
+E:\Facu\tp_laboratorio_2\Trabajo 1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+E:\Facu\tp_laboratorio_2\Trabajo 1\MiCalculadora\bin\Debug\Entidades.dll
+E:\Facu\tp_laboratorio_2\Trabajo 1\MiCalculadora\bin\Debug\Entidades.pdb
+E:\Facu\tp_laboratorio_2\Trabajo 1\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+E:\Facu\tp_laboratorio_2\Trabajo 1\MiCalculadora\obj\Debug\MiCalculadora.LaCalculadora.resources
+E:\Facu\tp_laboratorio_2\Trabajo 1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+E:\Facu\tp_laboratorio_2\Trabajo 1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+E:\Facu\tp_laboratorio_2\Trabajo 1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+E:\Facu\tp_laboratorio_2\Trabajo 1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+E:\Facu\tp_laboratorio_2\Trabajo 1\MiCalculadora\obj\Debug\MiCalculadora.exe
+E:\Facu\tp_laboratorio_2\Trabajo 1\MiCalculadora\obj\Debug\MiCalculadora.pdb

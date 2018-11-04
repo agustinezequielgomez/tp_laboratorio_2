@@ -1,0 +1,16 @@
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Test\bin\Debug\Test.exe.config
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Test\bin\Debug\Test.exe
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Test\bin\Debug\Test.pdb
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Test\bin\Debug\EntidadesAbstractas.dll
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Test\bin\Debug\EntidadesInstanciables.dll
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Test\bin\Debug\Archivos.pdb
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Test\bin\Debug\EntidadesAbstractas.pdb
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Test\bin\Debug\EntidadesInstanciables.pdb
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Test\obj\Debug\Test.csprojAssemblyReference.cache
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Test\obj\Debug\Test.csproj.CopyComplete
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Test\obj\Debug\Test.exe
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Test\obj\Debug\Test.pdb
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Test\bin\Debug\Excepciones.dll
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Test\bin\Debug\Excepciones.pdb
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Test\bin\Debug\Archivos.dll

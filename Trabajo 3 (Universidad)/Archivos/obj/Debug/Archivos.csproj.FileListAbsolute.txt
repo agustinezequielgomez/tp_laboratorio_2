@@ -1,0 +1,17 @@
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Trabajos Practicos\TP 3\Archivos\bin\Debug\Archivos.dll
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Trabajos Practicos\TP 3\Archivos\bin\Debug\Archivos.pdb
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Trabajos Practicos\TP 3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Trabajos Practicos\TP 3\Archivos\obj\Debug\Archivos.dll
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Trabajos Practicos\TP 3\Archivos\obj\Debug\Archivos.pdb
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Trabajos Practicos\TP 3\Archivos\bin\Debug\Excepciones.dll
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Trabajos Practicos\TP 3\Archivos\bin\Debug\Excepciones.pdb
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Trabajos Practicos\TP 3\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+E:\Facu\tp_laboratorio_2\Trabajo 3\Archivos\bin\Debug\Archivos.dll
+E:\Facu\tp_laboratorio_2\Trabajo 3\Archivos\bin\Debug\Archivos.pdb
+E:\Facu\tp_laboratorio_2\Trabajo 3\Archivos\bin\Debug\Excepciones.dll
+E:\Facu\tp_laboratorio_2\Trabajo 3\Archivos\bin\Debug\Excepciones.pdb
+E:\Facu\tp_laboratorio_2\Trabajo 3\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+E:\Facu\tp_laboratorio_2\Trabajo 3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+E:\Facu\tp_laboratorio_2\Trabajo 3\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+E:\Facu\tp_laboratorio_2\Trabajo 3\Archivos\obj\Debug\Archivos.dll
+E:\Facu\tp_laboratorio_2\Trabajo 3\Archivos\obj\Debug\Archivos.pdb

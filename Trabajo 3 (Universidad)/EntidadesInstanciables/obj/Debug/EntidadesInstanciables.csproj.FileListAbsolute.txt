@@ -1,0 +1,24 @@
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Trabajos Practicos\TP 3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.csproj.CoreCompileInputs.cache
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Trabajos Practicos\TP 3\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.dll
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Trabajos Practicos\TP 3\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.pdb
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Trabajos Practicos\TP 3\EntidadesInstanciables\bin\Debug\Archivos.dll
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Trabajos Practicos\TP 3\EntidadesInstanciables\bin\Debug\EntidadesAbstractas.dll
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Trabajos Practicos\TP 3\EntidadesInstanciables\bin\Debug\Archivos.pdb
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Trabajos Practicos\TP 3\EntidadesInstanciables\bin\Debug\EntidadesAbstractas.pdb
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Trabajos Practicos\TP 3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.csproj.CopyComplete
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Trabajos Practicos\TP 3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.dll
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Trabajos Practicos\TP 3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.pdb
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Trabajos Practicos\TP 3\EntidadesInstanciables\bin\Debug\Excepciones.dll
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Trabajos Practicos\TP 3\EntidadesInstanciables\bin\Debug\Excepciones.pdb
+E:\Facu\tp_laboratorio_2\Trabajo 3\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.dll
+E:\Facu\tp_laboratorio_2\Trabajo 3\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.pdb
+E:\Facu\tp_laboratorio_2\Trabajo 3\EntidadesInstanciables\bin\Debug\Archivos.dll
+E:\Facu\tp_laboratorio_2\Trabajo 3\EntidadesInstanciables\bin\Debug\EntidadesAbstractas.dll
+E:\Facu\tp_laboratorio_2\Trabajo 3\EntidadesInstanciables\bin\Debug\Excepciones.dll
+E:\Facu\tp_laboratorio_2\Trabajo 3\EntidadesInstanciables\bin\Debug\Archivos.pdb
+E:\Facu\tp_laboratorio_2\Trabajo 3\EntidadesInstanciables\bin\Debug\EntidadesAbstractas.pdb
+E:\Facu\tp_laboratorio_2\Trabajo 3\EntidadesInstanciables\bin\Debug\Excepciones.pdb
+E:\Facu\tp_laboratorio_2\Trabajo 3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.csproj.CoreCompileInputs.cache
+E:\Facu\tp_laboratorio_2\Trabajo 3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.csproj.CopyComplete
+E:\Facu\tp_laboratorio_2\Trabajo 3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.dll
+E:\Facu\tp_laboratorio_2\Trabajo 3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.pdb
