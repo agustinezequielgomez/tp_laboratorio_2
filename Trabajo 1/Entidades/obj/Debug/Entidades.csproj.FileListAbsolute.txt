@@ -1,5 +1,0 @@
-E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Trabajos Practicos\TP 1\Entidades\bin\Debug\Entidades.dll
-E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Trabajos Practicos\TP 1\Entidades\bin\Debug\Entidades.pdb
-E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Trabajos Practicos\TP 1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
-E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Trabajos Practicos\TP 1\Entidades\obj\Debug\Entidades.dll
-E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Trabajos Practicos\TP 1\Entidades\obj\Debug\Entidades.pdb
