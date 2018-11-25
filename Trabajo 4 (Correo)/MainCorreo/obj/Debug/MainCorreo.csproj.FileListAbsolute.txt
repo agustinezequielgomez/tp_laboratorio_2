@@ -1,0 +1,42 @@
+E:\Facu\laboratorio-ii\Gomez.Agustin.2A\MainCorreo\bin\Debug\MainCorreo.exe.config
+E:\Facu\laboratorio-ii\Gomez.Agustin.2A\MainCorreo\bin\Debug\MainCorreo.exe
+E:\Facu\laboratorio-ii\Gomez.Agustin.2A\MainCorreo\bin\Debug\MainCorreo.pdb
+E:\Facu\laboratorio-ii\Gomez.Agustin.2A\MainCorreo\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+E:\Facu\laboratorio-ii\Gomez.Agustin.2A\MainCorreo\obj\Debug\MainCorreo.FrmPpal.resources
+E:\Facu\laboratorio-ii\Gomez.Agustin.2A\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+E:\Facu\laboratorio-ii\Gomez.Agustin.2A\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+E:\Facu\laboratorio-ii\Gomez.Agustin.2A\MainCorreo\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+E:\Facu\laboratorio-ii\Gomez.Agustin.2A\MainCorreo\obj\Debug\MainCorreo.exe
+E:\Facu\laboratorio-ii\Gomez.Agustin.2A\MainCorreo\obj\Debug\MainCorreo.pdb
+E:\Facu\laboratorio-ii\Gomez.Agustin.2A\MainCorreo\bin\Debug\Entidades.dll
+E:\Facu\laboratorio-ii\Gomez.Agustin.2A\MainCorreo\bin\Debug\Entidades.pdb
+E:\Facu\laboratorio-ii\Gomez.Agustin.2A\MainCorreo\bin\Debug\Entidades.dll.config
+E:\Facu\laboratorio-ii\Gomez.Agustin.2A\MainCorreo\obj\Debug\MainCorreo.csproj.CopyComplete
+E:\Facu\laboratorio-ii\Gomez.Agustin.2A\Trabajos Practicos\TP 4\MainCorreo\bin\Debug\MainCorreo.exe.config
+E:\Facu\laboratorio-ii\Gomez.Agustin.2A\Trabajos Practicos\TP 4\MainCorreo\bin\Debug\MainCorreo.exe
+E:\Facu\laboratorio-ii\Gomez.Agustin.2A\Trabajos Practicos\TP 4\MainCorreo\bin\Debug\MainCorreo.pdb
+E:\Facu\laboratorio-ii\Gomez.Agustin.2A\Trabajos Practicos\TP 4\MainCorreo\bin\Debug\Entidades.dll
+E:\Facu\laboratorio-ii\Gomez.Agustin.2A\Trabajos Practicos\TP 4\MainCorreo\bin\Debug\Entidades.pdb
+E:\Facu\laboratorio-ii\Gomez.Agustin.2A\Trabajos Practicos\TP 4\MainCorreo\bin\Debug\Entidades.dll.config
+E:\Facu\laboratorio-ii\Gomez.Agustin.2A\Trabajos Practicos\TP 4\MainCorreo\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+E:\Facu\laboratorio-ii\Gomez.Agustin.2A\Trabajos Practicos\TP 4\MainCorreo\obj\Debug\MainCorreo.FrmPpal.resources
+E:\Facu\laboratorio-ii\Gomez.Agustin.2A\Trabajos Practicos\TP 4\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+E:\Facu\laboratorio-ii\Gomez.Agustin.2A\Trabajos Practicos\TP 4\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+E:\Facu\laboratorio-ii\Gomez.Agustin.2A\Trabajos Practicos\TP 4\MainCorreo\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+E:\Facu\laboratorio-ii\Gomez.Agustin.2A\Trabajos Practicos\TP 4\MainCorreo\obj\Debug\MainCorreo.csproj.CopyComplete
+E:\Facu\laboratorio-ii\Gomez.Agustin.2A\Trabajos Practicos\TP 4\MainCorreo\obj\Debug\MainCorreo.exe
+E:\Facu\laboratorio-ii\Gomez.Agustin.2A\Trabajos Practicos\TP 4\MainCorreo\obj\Debug\MainCorreo.pdb
+E:\Facu\tp_laboratorio_2\Trabajo 4 (Correo)\MainCorreo\bin\Debug\MainCorreo.exe.config
+E:\Facu\tp_laboratorio_2\Trabajo 4 (Correo)\MainCorreo\bin\Debug\MainCorreo.exe
+E:\Facu\tp_laboratorio_2\Trabajo 4 (Correo)\MainCorreo\bin\Debug\MainCorreo.pdb
+E:\Facu\tp_laboratorio_2\Trabajo 4 (Correo)\MainCorreo\bin\Debug\Entidades.dll
+E:\Facu\tp_laboratorio_2\Trabajo 4 (Correo)\MainCorreo\bin\Debug\Entidades.pdb
+E:\Facu\tp_laboratorio_2\Trabajo 4 (Correo)\MainCorreo\bin\Debug\Entidades.dll.config
+E:\Facu\tp_laboratorio_2\Trabajo 4 (Correo)\MainCorreo\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+E:\Facu\tp_laboratorio_2\Trabajo 4 (Correo)\MainCorreo\obj\Debug\MainCorreo.FrmPpal.resources
+E:\Facu\tp_laboratorio_2\Trabajo 4 (Correo)\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+E:\Facu\tp_laboratorio_2\Trabajo 4 (Correo)\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+E:\Facu\tp_laboratorio_2\Trabajo 4 (Correo)\MainCorreo\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+E:\Facu\tp_laboratorio_2\Trabajo 4 (Correo)\MainCorreo\obj\Debug\MainCorreo.csproj.CopyComplete
+E:\Facu\tp_laboratorio_2\Trabajo 4 (Correo)\MainCorreo\obj\Debug\MainCorreo.exe
+E:\Facu\tp_laboratorio_2\Trabajo 4 (Correo)\MainCorreo\obj\Debug\MainCorreo.pdb
