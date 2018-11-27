@@ -1,0 +1,11 @@
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Trabajos Practicos\TP 2\Entidades\bin\Debug\Entidades.dll
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Trabajos Practicos\TP 2\Entidades\bin\Debug\Entidades.pdb
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Trabajos Practicos\TP 2\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Trabajos Practicos\TP 2\Entidades\obj\Debug\Entidades.dll
+E:\Facu\Laboratorio-II\Gomez.Agustin.2A\Trabajos Practicos\TP 2\Entidades\obj\Debug\Entidades.pdb
+E:\Facu\tp_laboratorio_2\RecuperatoriosTP\TP2\Entidades\bin\Debug\Entidades.dll
+E:\Facu\tp_laboratorio_2\RecuperatoriosTP\TP2\Entidades\bin\Debug\Entidades.pdb
+E:\Facu\tp_laboratorio_2\RecuperatoriosTP\TP2\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+E:\Facu\tp_laboratorio_2\RecuperatoriosTP\TP2\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\Facu\tp_laboratorio_2\RecuperatoriosTP\TP2\Entidades\obj\Debug\Entidades.dll
+E:\Facu\tp_laboratorio_2\RecuperatoriosTP\TP2\Entidades\obj\Debug\Entidades.pdb
